@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E231" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="list.click" />
+          <option value="bytes.number_of_windows_to_be" />
+          <option value="bytes.presence_of_element_located" />
+          <option value="list.get" />
+          <option value="list.gettext" />
+          <option value="str.send_keys" />
+          <option value="list.sendkeys" />
+          <option value="list.send_keys" />
+          <option value="int.send_keys" />
+          <option value="tuple.select_visible_text" />
+          <option value="select.select.driver" />
+          <option value="selenium.webdriver.remote.webelement.WebElement.__getitem__" />
+          <option value="self.driver.find_element" />
+          <option value="urllib3.util.wait.until" />
+          <option value="bytes.element_to_be_clickable" />
+          <option value="bytes.presence_of_element_clickable" />
+          <option value="bytes.visibility_of_element_located" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
